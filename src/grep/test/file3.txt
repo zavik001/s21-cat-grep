@@ -1,0 +1,5 @@
+First line.
+Second line with some data.
+Third line is empty:
+
+Fourth line follows.

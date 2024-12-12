@@ -1,0 +1,4 @@
+Here is a test for the -v flag.
+This line contains no matches.
+Testing with multiple regex patterns.
+Nothing interesting here.

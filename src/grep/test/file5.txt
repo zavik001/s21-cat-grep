@@ -1,0 +1,27 @@
+123234354646757
+
+#include <stdio.h>
+
+int find_max(int arr[], int size) {
+    int max_value = arr[0];
+    int max_index = 0;
+
+    for (int i = 1; i < size; i++) {
+        if (arr[i] > max_value) {
+            max_value = arr[i];
+            max_index = i;
+        }
+    }
+
+    return max_index;
+}
+
+int main() {
+    int arr[] = {23, 45, 12, 67, 34, 89, 56};
+    int size = sizeof(arr) / sizeof(arr[0]);
+
+    int index = find_max(arr, size);
+
+    printf("Max value is %d at index %d\n", arr[index], index);
+    return 0;
+}

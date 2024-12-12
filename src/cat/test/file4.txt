@@ -1,0 +1,7 @@
+banana_cat$
+$
+apple_banana$
+$
+apple_cat$
+$
+cat_cat

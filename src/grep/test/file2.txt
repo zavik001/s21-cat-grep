@@ -1,0 +1,4 @@
+Another file to test.
+GREP is case-insensitive if you use the -i flag.
+There are multiple lines in this file.
+Hello again!
